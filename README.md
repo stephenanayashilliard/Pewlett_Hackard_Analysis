@@ -30,6 +30,9 @@ The queries for mentorship by title and department were derived from [mentor ele
 
 ## Summary
  - ### How many roles will need to be filled as employee's retirements begin to make and impact?
+ 
+ 
+ 
  - ### Are there enough qualified, retirement ready employees in the departments to menter the next generation?
 
  
