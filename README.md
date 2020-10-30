@@ -23,7 +23,7 @@ The purpose of this analysis is to answer two important questions:
  - ### Number of Retiring Employees by Department
 ![Retiring by Department](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Number%20of%20Retiring%20Employees%20by%20Department.png)
  - ### Number of Employees Eligible for the Mentorship Program by Title
-![Elegible by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Number%20of%20Retiring%20Employees%20by%20title.png)
+![Elegible by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Elegible_titles.png)
  - ### Number of Employees Eligible for the Mentorship Program by Department
 ![Elegible by Department](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/department_eligible_count.png)
 
