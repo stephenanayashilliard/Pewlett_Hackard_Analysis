@@ -53,19 +53,19 @@ The queries for mentorship by title and department were derived from [mentor ele
     - Sales: 313
     - Research: 124
     - Customer Service: 124.
-   - Total future retirees: 1,940
+    - Total future retirees: 1,940
  
 According to Mentoring program design and implementation at [mentoring program](www.ncbi.nlm.nih.gov) the ratio of mentor to mentee is a minimum of 1:1 to a max of 1:20 depending on the complexity of the job.  The ratio of the number of possible mentors to number of positions that will need to be filled are?
-    - Marketing: 1:16.
-    - Finance: 1:19
-    - Human Resources: 1:16
-    - Production: 1:19
-    - Development: 1:18
-    - Quality Management: 1:21
-    - Sales: 1:18
-    - Research: 1:19
-    - Customer Service: 1:20.
-    - Total future retirees: 1:18
-  So that the mentoring program can successfully train future hires it maybe advantages to change the criteria for recieving retirement benefits in order to slow the number of employees retiring at one time.
+   - Marketing: 1:16.
+   - Finance: 1:19
+   - Human Resources: 1:16
+   - Production: 1:19
+   - Development: 1:18
+   - Quality Management: 1:21
+   - Sales: 1:18
+   - Research: 1:19
+   - Customer Service: 1:20.
+   - Total future retirees: 1:18
+So that the mentoring program can successfully train future hires it maybe advantages to change the criteria for recieving retirement benefits in order to slow the number of employees retiring at one time.
  
  
