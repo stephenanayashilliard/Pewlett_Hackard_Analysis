@@ -30,11 +30,42 @@ The queries for mentorship by title and department were derived from [mentor ele
 
 ## Summary
  - ### How many roles will need to be filled as employee's retirements begin to make and impact?
- 
- 
+  - From the analysis the number of employees about to retire per department are as follows:
+    - Marketing: 2,199.
+    - Finance: 1,908
+    - Human Resources: 1,953
+    - Production: 8,174
+    - Development: 9,281
+    - Quality Management: 2,234
+    - Sales: 5,860
+    - Research: 2,413
+    - Customer Service: 2,597.
+   - Total future retirees: 36,619.
  
  - ### Are there enough qualified, retirement ready employees in the departments to menter the next generation?
-
+  - Under the assumption that qualified employees would be the most efficient mentoring  future replacements in their areas of expertise.  I have broken down the elegible employees for mentoring positions by their current departments.
+    - Marketing: 133.
+    - Finance: 98
+    - Human Resources: 117
+    - Production: 418
+    - Development: 511
+    - Quality Management: 102
+    - Sales: 313
+    - Research: 124
+    - Customer Service: 124.
+   - Total future retirees: 1,940
  
+According to Mentoring program design and implementation at [mentoring program](www.ncbi.nlm.nih.gov) the ratio of mentor to mentee is a minimum of 1:1 to a max of 1:20 depending on the complexity of the job.  The ratio of the number of possible mentors to number of positions that will need to be filled are?
+    - Marketing: 1:16.
+    - Finance: 1:19
+    - Human Resources: 1:16
+    - Production: 1:19
+    - Development: 1:18
+    - Quality Management: 1:21
+    - Sales: 1:18
+    - Research: 1:19
+    - Customer Service: 1:20.
+    - Total future retirees: 1:18
+  So that the mentoring program can successfully train future hires it maybe advantages to change the criteria for recieving retirement benefits in order to slow the number of employees retiring at one time.
  
  
