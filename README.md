@@ -66,6 +66,7 @@ According to Mentoring program design and implementation at [mentoring program](
    - Research: 1:19
    - Customer Service: 1:20.
    - Total future retirees: 1:18
+
 So that the mentoring program can successfully train future hires it maybe advantages to change the criteria for recieving retirement benefits in order to slow the number of employees retiring at one time.
  
  
