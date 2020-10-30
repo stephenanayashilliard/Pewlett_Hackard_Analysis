@@ -19,6 +19,7 @@ The purpose of this analysis is to answer two important questions:
    
 ## Results of the Analysis
  - ### Number of Retiring Employees by Title
+ ![Retiring employees by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Elegible_titles.png)
  - ### Number of Retiring Employees by Department
  - ### Number of Employees Eligible for the Mentorship Program by Title
  - ### Number of Employees Eligible for the Mentorship Program by Department
