@@ -18,9 +18,14 @@ The purpose of this analysis is to answer two important questions:
    - postgresSQL
    
 ## Results of the Analysis
+ - ### Number of Retiring Employees by Title
+ - ### Number of Retiring Employees by Department
+ - ### Number of Employees Eligible for the Mentorship Program by Title
+ - ### Number of Employees Eligible for the Mentorship Program by Department
 
 ## Summary
-
+ - ### How many roles will need to be filled as employee's retirements begin to mak and impact?
+ - ### Are there enough qualified, retirement ready employees in the departmetns to menter the next  -- generation?
 
  
  
