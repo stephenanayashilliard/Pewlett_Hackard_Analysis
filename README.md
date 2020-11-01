@@ -76,13 +76,14 @@ So that the mentoring program can successfully train future hires it maybe advan
 
 An additional query based on the number of current employees and their titles was also run.  From this query the total number of employees per title can be examined.  The query also illustrates that although there are nine departments, only five currently have managers. 
  - The departments with managers:
-  - Human Resources
-  - Production
-  - Sales
-  - Research
-  - Customer Service
+   - Human Resources
+   - Production
+   - Sales
+   - Research
+   - Customer Service
 
 Of those five managers, two are eligible for retirement.  This deficiency in managment could possibly hinder the mentorship of future talent. 
+
 
 
  
