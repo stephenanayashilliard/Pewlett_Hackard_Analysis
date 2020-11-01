@@ -69,6 +69,21 @@ According to Mentoring program design and implementation at [mentoring program](
 
 So that the mentoring program can successfully train future hires it maybe advantages to change the criteria for recieving retirement benefits in order to slow the number of employees retiring at one time.
 
-### An additional query based on the number of current employees and their titles was also run.  From this query the total number of employees per title can be examined.  The query also illustrates that although there are nine departments, only five currently have managers.  Of those five managers, two are eligible for retirement.  This deficiency in managment could possibly hinder the mentorship of future talent.
+### What is the count of current employees by thier titles?
+
+#### Number current employees by title
+![Employees by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/employess_by_title.png)
+
+An additional query based on the number of current employees and their titles was also run.  From this query the total number of employees per title can be examined.  The query also illustrates that although there are nine departments, only five currently have managers. 
+ - The departments with managers:
+  - Human Resources
+  - Production
+  - Sales
+  - Research
+  - Customer Service
+
+Of those five managers, two are eligible for retirement.  This deficiency in managment could possibly hinder the mentorship of future talent. 
+
+
  
  
