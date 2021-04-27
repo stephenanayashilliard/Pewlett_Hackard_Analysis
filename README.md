@@ -16,7 +16,21 @@ The purpose of this analysis is to answer two important questions:
    - Pandas
    - pgAdmin4
    - postgresSQL
-   
+
+## Creating the Queries
+Before any analysis could occur all data from the departments.csv, dept_emp.csv and titles.csv needed to be combined into tables using SQL.
+
+### Initial Tables
+![Initial Tables](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/initial_tables.png)
+
+### Joining Tables
+The intitial tables were then joined.
+![Joining_tables](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/joining_tables.png)
+
+### Additional Queries
+Additional Queries were created for retirement elegibility by Department, Salary and Title.
+![Additional Queries](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/additional_queries.png)
+
 ## Results of the Analysis
 The queries for mentorship by title and department were derived from [mentor elegibility](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibilty.csv)
  - ### Number of Retiring Employees by Title
